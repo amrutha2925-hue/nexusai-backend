@@ -1,12 +1,4 @@
 fastapi
-uvicorn[standard]
-pymongo
+uvicorn
+openai
 python-dotenv
-passlib[bcrypt]
-pydantic[email]
-cryptography
-numpy
-opencv-python-headless
-tensorflow    # for model training/inference (install only if you have GPU/CPU capacity)
-scikit-learn
-python-multipart
